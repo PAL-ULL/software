@@ -1,3 +1,3 @@
 # Software Registered by the PAL group
 
-* [Comilona](comilona)
+* [Comilona](https://github.com/PAL-ULL/comilona)
