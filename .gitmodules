@@ -1,0 +1,3 @@
+[submodule "comilona"]
+	path = comilona
+	url = https://github.com/PAL-ULL/comilona.git
